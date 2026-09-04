@@ -6,7 +6,7 @@
 
 ### Building One Project at a Time 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2F7F7A&center=true&vCenter=true&width=800&lines=B.Tech+CSE+(AI+%26+ML)+Student+%F0%9F%8E%93;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Data+Analytics+%26+Visualization+%F0%9F%93%8A;Learning+Through+Real-World+Projects+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2F7F7A&center=true&vCenter=true&width=800&lines=B.Tech+CSE+(AI+%26+ML)+Student+%F0%9F%8E%93;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Data+Analytics+%26+Visualization+%F0%9F%93%8A;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
@@ -103,28 +103,20 @@
 </div>
 
 ---
-
-## Connect with me! 🤝
+# Connect with me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="30" />
 
 <p align="center">
 
-<a href="https://linkedin.com/in/sudipta-das-436299296">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="65" height="65" alt="LinkedIn"/>
-</a>
+  <a href="https://www.linkedin.com/in/sudipta-das-436299296/"><img src="https://img.icons8.com/?size=70&id=114445&format=png" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sudiptadas2102@gmail.com"><img src="https://img.icons8.com/?size=70&id=P7UIlhbpWzZm&format=png" alt="Gmail"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:sudiptadas2102@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="65" height="65" alt="Gmail"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/sudiptadas2102-cloud">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="65" height="65" alt="GitHub"/>
-</a>
+  <a href="https://github.com/sudiptadas2102-cloud"><img src="https://img.icons8.com/?size=70&id=62856&format=png" alt="GitHub"/></a>
 
 </p>
+
 
 ---
 
