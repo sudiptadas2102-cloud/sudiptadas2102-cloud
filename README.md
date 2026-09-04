@@ -6,7 +6,7 @@
 
 ### Building One Project at a Time 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2F7F7A&center=true&vCenter=true&width=750&lines=B.Tech+CSE+(AI+%26+ML)+Student+%F0%9F%8E%93;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+Through+Real-World+Projects+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2F7F7A&center=true&vCenter=true&width=800&lines=B.Tech+CSE+(AI+%26+ML)+Student+%F0%9F%8E%93;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Data+Analytics+%26+Visualization+%F0%9F%93%8A;Learning+Through+Real-World+Projects+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
@@ -20,13 +20,13 @@
 
 ## ⚡ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-B59F00?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-BB5A20?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-B84A2B?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-9C8A16?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-A65328?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-A84429?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 ### 🤖 AI, Machine Learning & Data Science
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/MYSQL-315F72?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### ⚙️ API Development
+### ⚙️ API
 
 <p>
   <img src="https://img.shields.io/badge/FASTAPI-236B61?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -82,7 +82,7 @@
 
 ---
 
-## 💜 A Little More About Me
+## 💫 A Little More About Me
 
 ```text
 💡 I believe the best way to learn is by building.
@@ -90,3 +90,52 @@
 📊 I enjoy working with data and finding meaningful insights.
 💻 I love turning ideas into working projects.
 🌱 Every project teaches me something new.
+```
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sudiptadas2102-cloud/sudiptadas2102-cloud/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sudiptadas2102@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/sudipta-das-436299296">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/sudiptadas2102-cloud">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Curiosity → Learning → Building → Growing
+
+*"I don't need to know everything today — I just need to keep learning."*
+
+<br>
+
+⭐ **Thanks for visiting my profile!** ✨
+
+</div>
