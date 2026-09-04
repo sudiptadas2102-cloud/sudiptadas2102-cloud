@@ -105,7 +105,7 @@
 ---
 # Connect with me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="30" />
 
-<p align="center">
+<div align="center">
 
   <a href="https://www.linkedin.com/in/sudipta-das-436299296/"><img src="https://img.icons8.com/?size=70&id=114445&format=png" alt="LinkedIn"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -115,7 +115,7 @@
 
   <a href="https://github.com/sudiptadas2102-cloud"><img src="https://img.icons8.com/?size=70&id=62856&format=png" alt="GitHub"/></a>
 
-</p>
+</div>
 
 
 ---
