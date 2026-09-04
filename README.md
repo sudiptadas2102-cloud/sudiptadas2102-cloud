@@ -106,24 +106,81 @@
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="65" alt="Gmail"/>
+
+<br><br>
 
 <a href="mailto:sudiptadas2102@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/✉%20Email-8B2635?style=for-the-badge" alt="Email"/>
 </a>
-&nbsp;&nbsp;
+
+<br><br>
+
+<i>Let's connect via email</i>
+
+<br>
+
+<a href="mailto:sudiptadas2102@gmail.com">
+  <b>sudiptadas2102@gmail.com</b>
+</a>
+
+</td>
+
+
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="65" alt="LinkedIn"/>
+
+<br><br>
 
 <a href="https://linkedin.com/in/sudipta-das-436299296">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+
+<br><br>
+
+<i>Let's connect on LinkedIn</i>
+
+<br>
+
+<a href="https://linkedin.com/in/sudipta-das-436299296">
+  <b>Sudipta Das</b>
+</a>
+
+</td>
+
+
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="65" alt="GitHub"/>
+
+<br><br>
 
 <a href="https://github.com/sudiptadas2102-cloud">
   <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</div>
+<br><br>
 
+<i>Check out my projects</i>
+
+<br>
+
+<a href="https://github.com/sudiptadas2102-cloud">
+  <b>sudiptadas2102-cloud</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
@@ -133,6 +190,10 @@
 
 <br>
 
-⭐ **Thanks for visiting my profile!** ✨
+♡ ────────── 💚 ────────── ♡
+
+<br><br>
+
+⭐ **Thanks for visiting my profile! ✨**
 
 </div>
