@@ -109,23 +109,20 @@
 <div align="center">
 
 <a href="mailto:sudiptadas2102@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/sudipta-das-436299296">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/sudiptadas2102-cloud">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
-
 ---
 
 <div align="center">
